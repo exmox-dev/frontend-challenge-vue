@@ -1,5 +1,7 @@
 # Frontend Challenge: AniSearch
 
+![AniSearch Screenshot](/public/challenge.jpg)
+
 ## AniList GraphQL API
 
 - Endpoint: `https://graphql.anilist.co`
